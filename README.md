@@ -1,5 +1,6 @@
-# Analysis-on-membrane-labeled-cell
+# Analysis-on-membrane-labeled-cell [![DOI](https://zenodo.org/badge/314442624.svg)](https://zenodo.org/badge/latestdoi/314442624)
 Distinguish cells labeled with membrane structure and analyze the volume and intensity in each cell in a batch mode.
+
 
 #Examples
 1. Membrane-tagged fluorescent cells
