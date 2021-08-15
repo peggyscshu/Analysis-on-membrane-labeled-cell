@@ -27,6 +27,7 @@ Measure vol_bounding box.ijm
 2.	Define the input folder
 3.	Define the output folder to save the image with cell indexed image and the measured data.
 2D and 3D shape analysis.ijm
+![GUI](https://user-images.githubusercontent.com/67047201/129473920-2f825b1a-0a20-4bbe-8c48-d7ff06a1b005.JPG)
 
 
 
