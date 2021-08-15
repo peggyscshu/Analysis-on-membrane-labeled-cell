@@ -27,9 +27,10 @@ Measure vol_bounding box.ijm
 2.	Define the input folder
 3.	Define the output folder to save the image with cell indexed image and the measured data.
 2D and 3D shape analysis.ijm
-![GUI](https://user-images.githubusercontent.com/67047201/129473920-2f825b1a-0a20-4bbe-8c48-d7ff06a1b005.JPG)
-
-
+1. Execute the script under Plugins\Macros\Run.
+2. Fill in columns in the GUI.
+3. Choose the analysis type.
+4. Find the measurement result under the input folder.
 
 #References
 1.	Tschumperle, D., and Deriche, R. (2005) Vector-valued image regularization with PDEs: A common framework for different applications. Ieee T Pattern Anal 27, 506-517
@@ -41,4 +42,7 @@ Measure vol_bounding box.ijm
 1. Made changes to the layout templates or some other part of the code? Fork this repository, make your changes, and send a pull request.
 2. Do these codes help on your research? Please cite as the follows.
 Skin cells undergo asynthetic fission to support expanding body surfaces in zebrafish. KY Chan, CCS Yan, HY Roan, SC Hsu, CD Hsiao, CP Hsu, CH Chen.
+
+#Graphic User Interphase of 2D and 3D shape analysis.ijm
+![GUI](https://user-images.githubusercontent.com/67047201/129473920-2f825b1a-0a20-4bbe-8c48-d7ff06a1b005.JPG)
 
