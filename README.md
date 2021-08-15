@@ -8,9 +8,10 @@ Distinguish cells labeled with membrane structure and analyze the volume and int
 3. Membrane channel protein-labeled cells
 
 #Description 
-1. Two scripts are available in this repository.
+1. Three scripts are available in this repository.
 2.  “LifToCutline.ijm” is used to make a cutline along with the membrane signal to identify each single cell from the raw data acquired from Leica TCS-SP8 confocal microscope. The processed images will keep the resolution as the raw image and be saved as tif format in the user defined folder.
 3.  These image can be further analyzed through any 3D software or through another script “Measure vol_bounding box.ijm” offered here to get the cell volume, DNA content and bounding box size. To speed up the measurement, the processed stack was binned and submitted to the 3D analysis package on Fiji.
+4.  The code "2D and 3D shape analysis.ijm" is the integrated version of "LifToCutline.ijm" and "Measure vol_bounding box.ijm". In addition, 2D shape analysis is available for area, centroid, angle, aspact ratio, roundness and solidity measurements.
 
 #Instructions
 LifToCutline.ijm
@@ -25,6 +26,9 @@ Measure vol_bounding box.ijm
 1.	Execute the script under Plugins\Macros\Run
 2.	Define the input folder
 3.	Define the output folder to save the image with cell indexed image and the measured data.
+2D and 3D shape analysis.ijm
+
+
 
 #References
 1.	Tschumperle, D., and Deriche, R. (2005) Vector-valued image regularization with PDEs: A common framework for different applications. Ieee T Pattern Anal 27, 506-517
