@@ -41,7 +41,7 @@ Measure vol_bounding box.ijm
 #Feedback
 1. Made changes to the layout templates or some other part of the code? Fork this repository, make your changes, and send a pull request.
 2. Do these codes help on your research? Please cite as the follows.
-Skin cells undergo asynthetic fission to support expanding body surfaces in zebrafish. KY Chan, CCS Yan, HY Roan, SC Hsu, CD Hsiao, CP Hsu, CH Chen.
+Chan, K.Y., Yan, CC.S., Roan, HY. et al. Skin cells undergo asynthetic fission to expand body surfaces in zebrafish. Nature (2022). https://doi.org/10.1038/s41586-022-04641-0
 
 #Graphic User Interphase of 2D and 3D shape analysis.ijm
 ![GUI](https://user-images.githubusercontent.com/67047201/129473920-2f825b1a-0a20-4bbe-8c48-d7ff06a1b005.JPG)
